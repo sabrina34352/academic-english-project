@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AeProject/static/css/main.085f357c.css",
-    "main.js": "/AeProject/static/js/main.a06bfa58.js",
-    "static/media/cpr_inside_look.png": "/AeProject/static/media/cpr_inside_look.c6af48cf19678b578001.png",
-    "static/media/heartattack.png": "/AeProject/static/media/heartattack.9677ff7836b33a0f2241.png",
-    "index.html": "/AeProject/index.html",
-    "main.085f357c.css.map": "/AeProject/static/css/main.085f357c.css.map",
-    "main.a06bfa58.js.map": "/AeProject/static/js/main.a06bfa58.js.map"
+    "main.css": "/ae-project/static/css/main.085f357c.css",
+    "main.js": "/ae-project/static/js/main.ee0f7b4c.js",
+    "static/media/cpr_inside_look.png": "/ae-project/static/media/cpr_inside_look.c6af48cf19678b578001.png",
+    "static/media/heartattack.png": "/ae-project/static/media/heartattack.9677ff7836b33a0f2241.png",
+    "index.html": "/ae-project/index.html",
+    "main.085f357c.css.map": "/ae-project/static/css/main.085f357c.css.map",
+    "main.ee0f7b4c.js.map": "/ae-project/static/js/main.ee0f7b4c.js.map"
   },
   "entrypoints": [
     "static/css/main.085f357c.css",
-    "static/js/main.a06bfa58.js"
+    "static/js/main.ee0f7b4c.js"
   ]
 }
