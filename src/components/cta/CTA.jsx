@@ -11,7 +11,7 @@ const CTA = () => {
           important to PUSH HARD and PUSH FAST to build the pressure up, which
           keeps blood going to the brain. Pushing down at least 2 inches allows
           for the heart to be squeezed and blood to move out. Pushing at a rate
-          of 100-10compresions per minute is necessary to keep blood pumping.
+          of 100-120compresions per minute is necessary to keep blood pumping.
           Pushing not deep enough causes blood to not reach the brain. The same
           for not pushing fast enough. Pushing too fast is also not allowed.
           Heart does not have time to refill with blood when pushing is too
